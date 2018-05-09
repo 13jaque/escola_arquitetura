@@ -6,6 +6,7 @@
 }
 
 body {
+    background-image: url("../_imagens/imagem-de-fundo.jpg");
     font-family: arial, sans-serif;
     background-color: #dddddd;
     color: rgba(0,0,0,1);   
@@ -157,6 +158,8 @@ header#cabecalho-artigo h1 {
     margin-top: 0px;
 
 }
+
+
 
 header#cabecalho-artigo h2 {
     font-size: 13pt;
