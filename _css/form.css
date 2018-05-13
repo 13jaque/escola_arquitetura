@@ -9,6 +9,28 @@ input {
     font-family: sans-serif;
     font-weight: normal;
     font-size: 13pt;
+    /*width: 30%;*/
+}
+
+.input-enviar{
+    position: relative;
+    left: 420px;
+    font-family: sans-serif;
+    font-weight: normal;
+    font-size: 13pt;
+}
+
+.input-usuario{
+    font-family: sans-serif;
+    font-weight: normal;
+    font-size: 13pt;
+    width: 30%;
+}
+.input-usuario1{
+    font-family: sans-serif;
+    font-weight: normal;
+    font-size: 12pt;
+    width: 18%;
 }
 
 legend {

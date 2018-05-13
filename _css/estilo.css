@@ -26,7 +26,7 @@ p {
 }
 
 a {
-    color:#606060
+    color:#606060;
     text-decoration: none;
 }
 
@@ -43,7 +43,6 @@ header#cabecalho img#icone {
 header#cabecalho {
     border-bottom: 1px #606060 solid;
     height: 150px;
-    background: url("../_imagens/glass-logo-peq.jpg") no-repeat 0px 80px;
 
 }
 
@@ -106,7 +105,7 @@ nav#menu ul {
     text-transform: uppercase;
     position: absolute;
     top: -20px;
-    left: 560px;
+    left: 466px;
 }
 
 nav#menu li {
