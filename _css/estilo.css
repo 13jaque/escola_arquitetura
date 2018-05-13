@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image: url("../_imagens/imagem-de-fundo.jpg");
+    background: url("../_imagens/imagem-de-fundo.jpg");
     font-family: arial, sans-serif;
     background-color: #dddddd;
     color: rgba(0,0,0,1);   
@@ -37,7 +37,7 @@ a:hover {
 header#cabecalho img#icone {
     position: absolute;
     left: 1000px;
-    top: 50px;
+    top: 40px;
 }
 
 header#cabecalho {
@@ -106,7 +106,7 @@ nav#menu ul {
     text-transform: uppercase;
     position: absolute;
     top: -20px;
-    left: 580px;
+    left: 560px;
 }
 
 nav#menu li {
